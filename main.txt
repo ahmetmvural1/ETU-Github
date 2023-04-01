@@ -1,1 +1,3 @@
 Ahmet Vural first Commit
+
+Burada yazdığım kodlar olacak
